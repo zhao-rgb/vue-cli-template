@@ -13,7 +13,7 @@
   "author": "zxl",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "vue-axios": "^2.1.5",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
